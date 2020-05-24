@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1590317092 source:c:\users\kapib\desktop\infa_dod\aplikacja\main.cpp
+	<iostream>
+
+1590315764 source:c:\users\kapib\desktop\infa_dod\aplikacja\src\inne.cpp
+	"Inne.h"
+
+1590321293 c:\users\kapib\desktop\infa_dod\aplikacja\include\inne.h
+
+1590315735 source:c:\users\kapib\desktop\infa_dod\aplikacja\src\mieso.cpp
+	"Mieso.h"
+
+1590320785 c:\users\kapib\desktop\infa_dod\aplikacja\include\mieso.h
+
+1590315711 source:c:\users\kapib\desktop\infa_dod\aplikacja\src\nabial.cpp
+	"Nabial.h"
+
+1590315711 c:\users\kapib\desktop\infa_dod\aplikacja\include\nabial.h
+
